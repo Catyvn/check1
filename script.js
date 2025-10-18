@@ -1,4 +1,4 @@
-document.getElementById("contactform").onsubmit = function () {
+document.getElementById("contactus").onsubmit = function () {
   alert("Your inquiry has been submitted. ");
   return false; 
 };
