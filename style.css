@@ -9,11 +9,14 @@ h3{text-align:center;}
 h3{font family:times new roman.ariel; font size:70px; font weight:bold; color:purple; background:pink;}
 h4{text-align:center;}
 h4{font family:times new roman.ariel; font size:70px; font weight:bold; color:purple; background:pink;}
+h5{text-align:center;}
+h5{font family:times new roman.ariel; font size:70px; font weight:bold; color:purple; background:pink;}
 
 h1{padding:50px; margin-top:50px; border:50px;}
 h2{padding:50px; margin-top:50px; border:50px;}
 h3{padding:50px; margin-top:50px; border:50px;}
 h4{padding:50px; margin-top:50px; border:50px;}
+h5{padding:50px; margin-top:50px; border:50px;}
 
 iframe{height:180px;  margin-right:600px; margin-left:600px; margin-bottom:20px;}
 
@@ -24,26 +27,28 @@ list-style:none;
 gap: 20px;
 display: flex;
 }
+
 table {
   margin: 18px auto;
   border: 4px  gray;
   border-collapse: collapse;
   width: 50%;
 }
+
+
 table th {
   background-color: purple;
   color: white;
 }
+
 table th,
 table td {border: 1px solid black; }
-
 nav a {
 
-  color: white;
+color: purple;
   font-weight: bold;
   text-decoration: none;
 }
-
 #ourmenu {
   margin-top: 60px;
 }
@@ -59,5 +64,6 @@ nav a {
 
 
 design.png{width: 30%;}
+
 
 
