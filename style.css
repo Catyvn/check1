@@ -24,21 +24,16 @@ list-style:none;
 gap: 20px;
 display: flex;
 }
-
-
 table {
   margin: 18px auto;
   border: 4px  gray;
   border-collapse: collapse;
   width: 50%;
 }
-
-
 table th {
   background-color: purple;
   color: white;
 }
-
 table th,
 table td {border: 1px solid black; }
 
